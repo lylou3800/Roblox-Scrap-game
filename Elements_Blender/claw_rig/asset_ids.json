@@ -1,0 +1,19 @@
+{
+  "_comment": "Roblox MODEL asset IDs for the claw rig meshes, uploaded from Blender (creator lylou38000, 2026-06-16). Templates live in ReplicatedStorage.Assets.ClawMeshes; ClawHub->Claw, Jaw->ClawJaw, Tip->ClawTip in the builder.",
+  "Base": 104027515864526,
+  "Cab": 130161391058755,
+  "Counterweight": 103080698741110,
+  "Boom": 113259420720381,
+  "Stick": 73461347100022,
+  "Elbow": 99273009629590,
+  "ClawHub": 133610310857288,
+  "Jaw": 85812482020097,
+  "Tip": 138846836942846,
+  "_comment2": "Hero meshes for the per-rank archetypes (uploaded headlessly via MCP 2026-06-17): Deck=universal chassis, TurretRing=rank3/4 body, DrillColumn=rank5, ReactorCore=rank9, TitanTorso=rank8/10, HoverPod=rank7. Imported into ClawMeshes; builder clones them.",
+  "Deck": 75473785945418,
+  "TurretRing": 86379220939984,
+  "DrillColumn": 103460016677614,
+  "ReactorCore": 74851390406848,
+  "TitanTorso": 92891865141422,
+  "HoverPod": 124420736899597
+}

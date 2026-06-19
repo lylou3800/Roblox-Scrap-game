@@ -1,0 +1,15 @@
+# Roblox Studio lock / recovery / autosave
+*.rbxlx.lock
+*.rbxl.lock
+*.rbxlx.bak
+*.rbxl.bak
+recovery.rbxl
+
+# Local tooling state
+.impeccable/
+.claude/
+.superpowers/
+
+# OS
+Thumbs.db
+.DS_Store

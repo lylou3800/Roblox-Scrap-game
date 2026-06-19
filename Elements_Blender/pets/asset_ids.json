@@ -1,0 +1,13 @@
+{
+  "_comment": "Roblox MODEL asset IDs for the 10 pet meshes, uploaded from Blender via the official 'Upload to Roblox' addon. FILL IN after upload (creator lylou38000). Until then they stay null and PetController falls back to the procedural PetMeshes. Each id maps to a Model imported into ReplicatedStorage.Assets.PetMeshes[<name>] (name == Config.Pets[*].model). Built one-object-per-color-zone (pets_build.py).",
+  "bunny_plush": null,
+  "bolt_bot": null,
+  "foam_cube": null,
+  "windup_duck": null,
+  "neon_kitten": null,
+  "magnet_drone": null,
+  "golden_teddy": null,
+  "mini_clawbot": null,
+  "holo_fox": null,
+  "ufo_mascot": null
+}

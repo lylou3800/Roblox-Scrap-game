@@ -1,0 +1,4 @@
+# Roblox place/model files: large XML, treat as binary to avoid EOL mangling & diffs
+*.rbxlx -text -diff
+*.rbxl  -text -diff
+*.zip   -text -diff
