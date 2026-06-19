@@ -13,3 +13,6 @@ recovery.rbxl
 # OS
 Thumbs.db
 .DS_Store
+
+# Place-file pre-recovery backups (local only, large)
+build.bak-*.rbxlx
