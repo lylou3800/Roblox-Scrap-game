@@ -1,0 +1,3 @@
+# Keep only the small 512px finals (up/) + the gen script.
+# Ignore the big 2048px raw renders and cutouts.
+/*.png
